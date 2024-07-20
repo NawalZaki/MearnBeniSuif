@@ -1,5 +1,9 @@
 I am Abdo
 
 
+<<<<<<< HEAD
 
 I add Line From Local REpo
+=======
+I am NAwal From REmote
+>>>>>>> 849d27eb183cb4bdc9b17b8ad6e40178fed5df76
